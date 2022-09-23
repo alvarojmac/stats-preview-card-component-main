@@ -14,7 +14,6 @@
 
 ![Captura de Tela 2022-09-23 às 20 25 21](https://user-images.githubusercontent.com/99209300/192068993-db4f9852-d6ff-45a4-bc0e-6f189015fc5c.png)
 
-
 🔗 [Acesse o projeto aqui](https://alvarojmac.github.io/stats-preview-card-component-main)
 
 ## 📡 Tecnologias
