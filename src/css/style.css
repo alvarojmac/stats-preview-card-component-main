@@ -36,7 +36,7 @@ section.wrapper {
 }
 
 .image {
-    background: url('/src/images/image-header-mobile.jpg') no-repeat center/cover;
+    background: url('../images/image-header-mobile.jpg') no-repeat center/cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
@@ -94,7 +94,7 @@ div.numbers p > span {
     }
 
     .image {
-        background: url('/src/images/image-header-desktop.jpg') no-repeat center/cover;
+        background: url('../images/image-header-desktop.jpg') no-repeat center/cover;
         width: 100%;
         border-top-left-radius: 0;
         border-top-right-radius: 8px;
